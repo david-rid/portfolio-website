@@ -1,0 +1,2 @@
+Contains structured data files
+ex: JSON, CSV, etc.
